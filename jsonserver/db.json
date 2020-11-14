@@ -1,0 +1,136 @@
+{
+  "posts": [
+    {
+      "id": "cf24a6c0-a658-11ea-973d-cbf0c8215fe4",
+      "comments": [
+        {
+          "text": "nice post",
+          "user": "cf24a6c0-a658-11ea-973d-cbf0c8215fe4",
+          "id": "567902a0-a65a-11ea-9ad3-15cca18b25f0",
+          "userName": "ivana",
+          "gender": "Female"
+        },
+        {
+          "text": "nice...",
+          "user": "cf24a6c0-a658-11ea-973d-cbf0c8215fe4",
+          "id": "6e7329d0-a65a-11ea-9ad3-15cca18b25f0",
+          "userName": "mia123",
+          "gender": "Female"
+        }
+      ],
+      "author": "Stefan Jankovic",
+      "title": "my first post form serbia",
+      "userName": "admin",
+      "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "release": "June 4th 2020, 1:44:55 pm"
+    },
+    {
+      "id": "20fab470-a65a-11ea-8bfe-c30d01748ad6",
+      "title": "hello world",
+      "author": "Bojan Bogdanovic",
+      "comments": [
+        {
+          "text": "a",
+          "user": "20fab470-a65a-11ea-8bfe-c30d01748ad6",
+          "id": "8b628580-a8b8-11ea-bf0d-4fc25f697e1d",
+          "userName": "bojan947",
+          "gender": "Male"
+        }
+      ],
+      "userName": "bojan947",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of ",
+      "release": "June 4th 2020, 1:54:21 pm"
+    }
+  ],
+  "profile": {
+    "logedUser": null
+  },
+  "users": [
+    {
+      "name": "Bojan Bogdanovic",
+      "id": "ef6d3750-a4cb-11ea-a523-297877ecfd43",
+      "gender": "Male",
+      "userName": "bojan947",
+      "password": "123"
+    },
+    {
+      "name": "Stefan Jankovic",
+      "id": "802a9760-a4cc-11ea-8bc1-5d749e2be39e",
+      "gender": "Male",
+      "userName": "admin",
+      "password": "admin"
+    },
+    {
+      "name": "mia stefanovic",
+      "id": "60519900-a4ce-11ea-9a68-cb5b72b171a0",
+      "gender": "Female",
+      "userName": "mia123",
+      "password": "123"
+    },
+    {
+      "name": "Ivana Petrovic",
+      "id": "a30549b0-a59e-11ea-8dae-2feecae7f49a",
+      "gender": "Female",
+      "userName": "ivana",
+      "password": "123"
+    },
+    {
+      "name": "Dennys",
+      "id": "4f16f200-a65b-11ea-a538-f32be445eb4f",
+      "gender": "Male",
+      "userName": "denis22",
+      "password": "123"
+    },
+    {
+      "name": "Bojan Bogdanovic",
+      "id": "6c2984b0-a71a-11ea-b156-111c88c8de34",
+      "gender": "Male",
+      "userName": "bota947",
+      "password": "123"
+    }
+  ],
+  "comments": [
+    {
+      "text": "nice post",
+      "id": "567902a0-a65a-11ea-9ad3-15cca18b25f0",
+      "user": "cf24a6c0-a658-11ea-973d-cbf0c8215fe4",
+      "userName": "ivana",
+      "gender": "Female"
+    },
+    {
+      "text": "nice...",
+      "id": "6e7329d0-a65a-11ea-9ad3-15cca18b25f0",
+      "user": "cf24a6c0-a658-11ea-973d-cbf0c8215fe4",
+      "userName": "mia123",
+      "gender": "Female"
+    },
+    {
+      "text": "a",
+      "id": "3d0df2e0-a8b6-11ea-8eee-c724c23d0c44",
+      "user": "bac86d20-a724-11ea-9962-abbdfcdc95ba",
+      "userName": "bojan947",
+      "gender": "Male"
+    },
+    {
+      "text": "a",
+      "id": "8b628580-a8b8-11ea-bf0d-4fc25f697e1d",
+      "user": "20fab470-a65a-11ea-8bfe-c30d01748ad6",
+      "userName": "bojan947",
+      "gender": "Male"
+    },
+    {
+      "text": "",
+      "id": "-pqYbjD"
+    },
+    {
+      "text": "",
+      "id": "9JRakQp"
+    }
+  ],
+  "test": [
+    {
+      "arr": [],
+      "id": "111"
+    }
+  ]
+}
