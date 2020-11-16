@@ -1,0 +1,65 @@
+{
+  "posts": [
+    {
+      "id": "0967e250-2806-11eb-b689-7db02480f230",
+      "comments": [
+      
+      ],
+      "author": "Bojan Bogdanovic",
+      "title": "Hello World",
+      "userName": "bojan947",
+      "body": "lorem is the best",
+      "release": "November 16th 2020, 1:19:55 pm"
+    },
+    {
+      "title": "mia first post",
+      "author": "mia stefanovic",
+      "id": "3b92bfc0-2806-11eb-b689-7db02480f230",
+      "userName": "mia123",
+      "comments": [],
+      "body": "hello world",
+      "release": "November 16th 2020, 1:21:19 pm"
+    }
+  ],
+  "users": [
+    {
+      "name": "Bojan Bogdanovic",
+      "id": "ef6d3750-a4cb-11ea-a523-297877ecfd43",
+      "gender": "Male",
+      "userName": "bojan947",
+      "password": "123"
+    },
+    {
+      "name": "Stefan Jankovic",
+      "id": "802a9760-a4cc-11ea-8bc1-5d749e2be39e",
+      "gender": "Male",
+      "userName": "admin",
+      "password": "admin"
+    },
+    {
+      "name": "mia stefanovic",
+      "id": "60519900-a4ce-11ea-9a68-cb5b72b171a0",
+      "gender": "Female",
+      "userName": "mia123",
+      "password": "123"
+    },
+    {
+      "name": "Ivana Petrovic",
+      "id": "a30549b0-a59e-11ea-8dae-2feecae7f49a",
+      "gender": "Female",
+      "userName": "ivana",
+      "password": "123"
+    },
+    {
+      "name": "Dennys",
+      "id": "4f16f200-a65b-11ea-a538-f32be445eb4f",
+      "gender": "Male",
+      "userName": "denis22",
+      "password": "123"
+    }
+  ],
+  "comments": [
+   
+   
+  ]
+}

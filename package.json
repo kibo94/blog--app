@@ -1,0 +1,16 @@
+{
+    "name": "jsonserver",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "npm run start-prod --prefix server",
+        "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix server && npm install --prefix client && npm run build --prefix client"
+       
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "json-server": "^0.16.1"
+    }
+}
